@@ -1,0 +1,11 @@
+.vscode
+.idea
+node_modules
+*.env
+.env.*
+__LOCAL__
+*-lock.json
+bin
+build
+V8
+*.log
